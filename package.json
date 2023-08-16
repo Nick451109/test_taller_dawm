@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production --base-href /test_taller_dawm/",
+    "build:prod": "ng build --configuration production --base-href /test_taller_dawm/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
